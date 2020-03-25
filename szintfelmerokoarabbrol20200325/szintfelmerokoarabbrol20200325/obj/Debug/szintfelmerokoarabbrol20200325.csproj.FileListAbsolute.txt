@@ -1,0 +1,7 @@
+C:\Users\Soma\source\repos\szintfelmerokoarabbrol20200325\szintfelmerokoarabbrol20200325\bin\Debug\szintfelmerokoarabbrol20200325.exe.config
+C:\Users\Soma\source\repos\szintfelmerokoarabbrol20200325\szintfelmerokoarabbrol20200325\bin\Debug\szintfelmerokoarabbrol20200325.exe
+C:\Users\Soma\source\repos\szintfelmerokoarabbrol20200325\szintfelmerokoarabbrol20200325\bin\Debug\szintfelmerokoarabbrol20200325.pdb
+C:\Users\Soma\source\repos\szintfelmerokoarabbrol20200325\szintfelmerokoarabbrol20200325\obj\Debug\szintfelmerokoarabbrol20200325.csprojAssemblyReference.cache
+C:\Users\Soma\source\repos\szintfelmerokoarabbrol20200325\szintfelmerokoarabbrol20200325\obj\Debug\szintfelmerokoarabbrol20200325.csproj.CoreCompileInputs.cache
+C:\Users\Soma\source\repos\szintfelmerokoarabbrol20200325\szintfelmerokoarabbrol20200325\obj\Debug\szintfelmerokoarabbrol20200325.exe
+C:\Users\Soma\source\repos\szintfelmerokoarabbrol20200325\szintfelmerokoarabbrol20200325\obj\Debug\szintfelmerokoarabbrol20200325.pdb
